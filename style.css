@@ -59,7 +59,7 @@
 .date,
 .time,
 .btn {
-  height: 4vh;
+  min-height: 4vh;
   border: 1px solid black;
   border-radius: 5px;
   outline: none;
